@@ -1,0 +1,105 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <meta charset="utf-8" />
+        <title>区块链学习网</title>
+        <style >
+        	body {margin:0;background-color:#E8E8E8;}
+		
+			.header {
+  			background-color:#B8B8B8;
+  			padding: 20px;
+  			border-radius:30px;
+			}
+			.m{
+				background-color:white;
+				padding:20px;
+				border-radius:30px;
+				width:200px;
+				height:1000px;
+				word-wrap:break-word;  
+    			word-break:break-all; 
+			}
+			.column {
+			  float: left;
+			  
+			  background-color:white;
+			  padding:20px;
+		
+				word-wrap:break-word;  
+    			word-break:break-all; 
+			}
+ 
+/* 列后清除浮动 */
+			.row:after {
+			  content: "";
+			  display: table;
+			  clear: both;
+			}
+			 
+/* 响应式布局 - 小于 600 px 时改为上下布局 */
+			@media screen and (max-width: 600px) {
+			  .column {
+			    width: 100%;
+			  }
+			}
+			.content{
+				background-color:white;
+				padding:30px;
+				border-radius:30px;
+				position:static;
+			}
+			ul.menu {list-style-type:square;}
+			.footer {
+			  background-color:	#E0E0E0 ;
+			  text-align: center;
+			  padding: 10px;
+			}
+		</style>
+	</head>
+<body>
+	<dir class="header" >
+        <h1 style="font-size:30px;color:white;">区块链的基本概念</h1> 
+    <form name="input" action="html_form_action.php" method="get" style="margin-left:1000px">
+		搜索: <input type="text" name="user">
+		<input type="submit" value="Submit">
+	</form> 
+	</dir>
+	<dir class="row">
+	<dir class="column" style="width: 15%;">
+		<u1 class="menu">
+			最新文章
+			<li><a href="xx">dwiubfdsbviueriuviuefv</a></li>
+			<li><a href="xx">2</a></li>
+		</u1>
+	</dir>
+	<dir class="column" style="width:70%;word-wrap:break-word;  
+    			word-break:break-all; ">
+		
+
+<h2>一、区块链的产生</h1>
+<p1>	2008-01中本聪提出里区块链的概念，2009-01-03创世区块链出现，2009-01-09出现序号为1的区块链，并于创世区块链连接形成区块链。</p1>
+
+<h2>二、区块链的特征</h2>
+<p1><b>去中心化</b>：区块链使用分布式核算储存自成一体，不依赖任何中心机构，也没有中心管制，任何节点的义务和权力都是均等的，系统中的数据由整个系统来维护。</p1><br>
+<p2><b>开放性</b>：除了交易的私有信息被加密，其他数据对所有人开放，所有人都可以通过公开接口查询区块链数据和开发的相关应用，这个系统的信息高度透明。</p2><br>
+<p3><b>独立性</b>：区块链通过哈希算法让所有节点都产生信任，无法人为干预。</p3><br>
+<p4><b>信息不可篡改</b>：信息一旦存入，只要不能掌控全部节点的51%就无法肆意操控修改网络数据，这使区块链本身变得相对安全，避免了主观人为的数据变更。</p4><br>
+<p5><b>匿名性</b>：各区块节点的身份信息不需要公开或验证让对方产生信任，只需要遵循固定的算法，就可以达到数据交互的信任。</p5><br>
+
+<h2>三、区块链的核心技术</h3>
+<p1><b>分布式账本</b>：交易记账由多个节点共同完成，而且每一个节点都记录的是完整的账目，因此它们都可以参与监督交易合法性，同时也可以共同为其作证。不同于传统的中心记账方案，没有任何一个节点可以单独记录账目，从而避免了单一记账人被控制</b>或被贿赂而记假账的可能性。另一方面，由于记账节点足够多，理论上讲除非所有的节点被破坏，否则账目就不会丢失，从而保证了账目数据的安全性。</p1><br>
+<p2><b>对称加密和授权技术</b>：存储在区块链上的交易信息是公开的，但是账户身份信息是高度加密的，只有在数据拥有着授权的情况下才能访问到，从而保证了数据的安全和个人的隐私。</p2><br>
+<p3><b>共识机制</b>：就是所有记账节点之间怎么达成共识，去认定一个记录的有效性，这既是认定的手段，也是防止篡改的手段。</p3><br>
+<p4><b>智能合约</b>：智能合约是基于这些可信的不可篡改的数据，可以自动化的执行一些预先定义好的规则和条款。</p4><br>
+
+
+
+	</dir>
+</dir>
+	<div class="footer">
+		zhizuo:卢子妍
+	</div>
+</dir>
+</body>
+</html>
