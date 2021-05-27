@@ -1,9 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
+    <title>text</title>
+    <url>/2021/05/19/text/</url>
+    <content><![CDATA[<p><span class="github-emoji"><span>😄</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></p>
+]]></content>
+      <categories>
+        <category>about</category>
+      </categories>
+  </entry>
+  <entry>
     <title>区块链blog</title>
-    <url>/luzy12345/2021/05/06/hello-world/</url>
-    <content><![CDATA[<p><img src="/luzy12345/luzy12345/2021/05/06/hello-world/1.jpg" alt="1"></p>
+    <url>/2021/05/06/hello-world/</url>
+    <content><![CDATA[<p><img src="/2021/05/06/hello-world/1.jpg" alt="1"></p>
 <p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
 <h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
 
@@ -20,17 +29,8 @@
 ]]></content>
   </entry>
   <entry>
-    <title>text</title>
-    <url>/luzy12345/2021/05/19/text/</url>
-    <content><![CDATA[<p><span class="github-emoji"><span>😄</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></p>
-]]></content>
-      <categories>
-        <category>about</category>
-      </categories>
-  </entry>
-  <entry>
     <title>公有链概念</title>
-    <url>/luzy12345/2021/05/20/%E5%85%AC%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
+    <url>/2021/05/20/%E5%85%AC%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
     <content><![CDATA[<h3 id="公有链"><a href="#公有链" class="headerlink" title="公有链"></a>公有链</h3>]]></content>
       <categories>
         <category>variety</category>
@@ -38,7 +38,7 @@
   </entry>
   <entry>
     <title>共识机制</title>
-    <url>/luzy12345/2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/</url>
+    <url>/2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/</url>
     <content><![CDATA[<h3 id="共识机制概念"><a href="#共识机制概念" class="headerlink" title="共识机制概念"></a>共识机制概念</h3>]]></content>
       <categories>
         <category>technology</category>
@@ -46,7 +46,7 @@
   </entry>
   <entry>
     <title>区块链热门应用</title>
-    <url>/luzy12345/2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/</url>
+    <url>/2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/</url>
     <content><![CDATA[<p>区块链热门应用及应用场景</p>
 ]]></content>
       <categories>
