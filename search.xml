@@ -10,6 +10,14 @@
       </categories>
   </entry>
   <entry>
+    <title>公有链概念</title>
+    <url>/2021/05/20/%E5%85%AC%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
+    <content><![CDATA[<h3 id="公有链"><a href="#公有链" class="headerlink" title="公有链"></a>公有链</h3>]]></content>
+      <categories>
+        <category>variety</category>
+      </categories>
+  </entry>
+  <entry>
     <title>区块链blog</title>
     <url>/2021/05/06/hello-world/</url>
     <content><![CDATA[<p><img src="/2021/05/06/hello-world/1.jpg" alt="1"></p>
@@ -29,11 +37,12 @@
 ]]></content>
   </entry>
   <entry>
-    <title>公有链概念</title>
-    <url>/2021/05/20/%E5%85%AC%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
-    <content><![CDATA[<h3 id="公有链"><a href="#公有链" class="headerlink" title="公有链"></a>公有链</h3>]]></content>
+    <title>区块链热门应用</title>
+    <url>/2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/</url>
+    <content><![CDATA[<p>区块链热门应用及应用场景</p>
+]]></content>
       <categories>
-        <category>variety</category>
+        <category>application</category>
       </categories>
   </entry>
   <entry>
@@ -42,15 +51,6 @@
     <content><![CDATA[<h3 id="共识机制概念"><a href="#共识机制概念" class="headerlink" title="共识机制概念"></a>共识机制概念</h3>]]></content>
       <categories>
         <category>technology</category>
-      </categories>
-  </entry>
-  <entry>
-    <title>区块链热门应用</title>
-    <url>/2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/</url>
-    <content><![CDATA[<p>区块链热门应用及应用场景</p>
-]]></content>
-      <categories>
-        <category>application</category>
       </categories>
   </entry>
 </search>
