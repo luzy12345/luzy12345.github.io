@@ -1,158 +1,107 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>联盟链概念</title>
-      <link href="2021/06/09/%E8%81%94%E7%9B%9F%E9%93%BE%E6%A6%82%E5%BF%B5/"/>
-      <url>2021/06/09/%E8%81%94%E7%9B%9F%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/2021/06/09/%E8%81%94%E7%9B%9F%E9%93%BE%E6%A6%82%E5%BF%B5/1.png"></p><h3 id="联盟链"><a href="#联盟链" class="headerlink" title="联盟链"></a>联盟链</h3><h4 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h4><p>联盟链是指有若干个机构共同参与管理的区块链，每个机构都运行着一个或多个节点，其中的数据只允许系统内不同的机构进行读写和发送交易，并且共同来记录交易数据。</p><h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><p>一是交易成本更便宜。交易只需被几个受信的高算力节点验证就可以了，而无需全网确认。</p><p>二是<a href="https://baike.baidu.com/item/%E8%8A%82%E7%82%B9">节点</a>可以很好地连接，故障可以迅速通过人工干预来修复，并允许使用共识算法减少区块时间，从而更快完成交易。</p><p>三是如果读取权限受到限制，可以提供更好的隐私保护。四是更灵活，如果需要的话，运行私有区块链的共同体或公司可以很容易地修改该区块链的规则，还原交易，修改余额等。</p><h4 id="联盟链与私有链"><a href="#联盟链与私有链" class="headerlink" title="联盟链与私有链"></a>联盟链与私有链</h4><p>联盟链和私有链也统称为许可链</p><p>私有链和联盟链之间的设计隐私权限会有不同，联盟链中的权限设计要求往往会更为复杂。</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>区块链blog</title>
+    <url>/2021/05/06/hello-world/</url>
+    <content><![CDATA[<p><img src="/2021/05/06/hello-world/1.jpg" alt="1"></p>
+<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p>
+<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p>
+<h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p>
+<h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p>
+<h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure>
+
+<p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
+]]></content>
+  </entry>
+  <entry>
+    <title>text</title>
+    <url>/2021/05/19/text/</url>
+    <content><![CDATA[<p><span class="github-emoji"><span>😄</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></p>
+]]></content>
       <categories>
-          
-          <category> variety </category>
-          
+        <category>about</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> variety </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>私有链概念</title>
-      <link href="2021/06/09/%E7%A7%81%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/"/>
-      <url>2021/06/09/%E7%A7%81%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
-      
-        <content type="html"><![CDATA[<h3 id="私有链"><a href="#私有链" class="headerlink" title="私有链"></a>私有链</h3><p><img src="/2021/06/09/%E7%A7%81%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/1.png"></p><h4 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h4><p>私有链是指其写入权限由某个组织和机构控制的区块链，参与节点的资格会被严格限制。</p><h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><p>私有链往往可以有极快的交易速度、更好的隐私保护、更低的交易成本、不容易被恶意攻击，并且能做到身份认证等金融行业必需的要求。</p><h4 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h4><p>R3CEV Corda平台以及超级账本项目(Hyperledger project)</p>]]></content>
-      
-      
+  </entry>
+  <entry>
+    <title>公有链概念</title>
+    <url>/2021/05/20/%E5%85%AC%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
+    <content><![CDATA[<p><img src="/2021/05/20/%E5%85%AC%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/1.png"></p>
+<h3 id="公有链"><a href="#公有链" class="headerlink" title="公有链"></a>公有链</h3><h4 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h4><p>是指全世界任何人都可以随时进入到系统中读取数据、发送可确认交易、竞争记账的<a href="http://www.lianmenhu.com/">区块链</a>。</p>
+<h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><p>“去中心化”</p>
+<p>通过代币机制来鼓励参与者竞争记账，来确保数据的安全性。</p>
+<h4 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h4><p>公链当前面临的最大问题是安全和效率的矛盾，即如何在去中心化程度和高TPS（系统吞吐量）两者之间取得平衡，最典型的代表如Ethereum和EOS之争。</p>
+<h4 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h4><p>区块链公有链包括比特币、以太坊、超级账本、大多数山寨币以及智能合约</p>
+]]></content>
       <categories>
-          
-          <category> variety </category>
-          
+        <category>variety</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> variety </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>区块链热门应用</title>
-      <link href="2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/"/>
-      <url>2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/</url>
-      
-        <content type="html"><![CDATA[<p>区块链热门应用及应用场景</p>]]></content>
-      
-      
+      <tags>
+        <tag>variety</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>区块链热门应用</title>
+    <url>/2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/</url>
+    <content><![CDATA[<p><img src="/2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/1.png"></p>
+<h3 id="区块链热门应用及应用场景"><a href="#区块链热门应用及应用场景" class="headerlink" title="区块链热门应用及应用场景"></a>区块链热门应用及应用场景</h3>]]></content>
       <categories>
-          
-          <category> application </category>
-          
+        <category>application</category>
       </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>共识机制</title>
-      <link href="2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/"/>
-      <url>2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/i.png"></p><h3 id="共识机制"><a href="#共识机制" class="headerlink" title="共识机制"></a>共识机制</h3><h4 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h4><p>​    所谓“共识机制”，是通过特殊节点的投票，在很短的时间内完成对交易的验证和确认；对一笔交易，如果利益不相干的若干个节点能够达成共识，我们就可以认为全网对此也能够达成共识。再通俗一点来讲，如果中国一名微博大V、美国一名虚拟币玩家、一名非洲留学生和一名欧洲旅行者互不相识，但他们都一致认为你是个好人，那么基本上就可以断定你这人还不坏。</p><h4 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h4><p>工作量证明机制（PoW）、权益证明机制（PoS）、股份授权证明机制（DPoS）、Pool验证池和实用拜占庭 PBFT。</p>]]></content>
-      
-      
+      <tags>
+        <tag>app</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>共识机制</title>
+    <url>/2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/</url>
+    <content><![CDATA[<p><img src="/2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/1.png"></p>
+<h3 id="共识机制"><a href="#共识机制" class="headerlink" title="共识机制"></a>共识机制</h3><h4 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h4><p>​    所谓“共识机制”，是通过特殊节点的投票，在很短的时间内完成对交易的验证和确认；对一笔交易，如果利益不相干的若干个节点能够达成共识，我们就可以认为全网对此也能够达成共识。再通俗一点来讲，如果中国一名微博大V、美国一名虚拟币玩家、一名非洲留学生和一名欧洲旅行者互不相识，但他们都一致认为你是个好人，那么基本上就可以断定你这人还不坏。</p>
+<h4 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h4><p>工作量证明机制（PoW）、权益证明机制（PoS）、股份授权证明机制（DPoS）、Pool验证池和实用拜占庭 PBFT。</p>
+]]></content>
       <categories>
-          
-          <category> technology </category>
-          
+        <category>technology</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> technology </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>公有链概念</title>
-      <link href="2021/05/20/%E5%85%AC%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/"/>
-      <url>2021/05/20/%E5%85%AC%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/2021/05/20/%E5%85%AC%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/1.png"></p><h3 id="公有链"><a href="#公有链" class="headerlink" title="公有链"></a>公有链</h3><h4 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h4><p>是指全世界任何人都可以随时进入到系统中读取数据、发送可确认交易、竞争记账的<a href="http://www.lianmenhu.com/">区块链</a>。</p><h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><p>“去中心化”</p><p>通过代币机制来鼓励参与者竞争记账，来确保数据的安全性。</p><h4 id="问题"><a href="#问题" class="headerlink" title="问题"></a>问题</h4><p>公链当前面临的最大问题是安全和效率的矛盾，即如何在去中心化程度和高TPS（系统吞吐量）两者之间取得平衡，最典型的代表如Ethereum和EOS之争。</p><h4 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h4><p>区块链公有链包括比特币、以太坊、超级账本、大多数山寨币以及智能合约</p>]]></content>
-      
-      
+      <tags>
+        <tag>technology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>私有链概念</title>
+    <url>/2021/06/09/%E7%A7%81%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
+    <content><![CDATA[<h3 id="私有链"><a href="#私有链" class="headerlink" title="私有链"></a>私有链</h3><p><img src="/2021/06/09/%E7%A7%81%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/1.png"></p>
+<h4 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h4><p>私有链是指其写入权限由某个组织和机构控制的区块链，参与节点的资格会被严格限制。</p>
+<h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><p>私有链往往可以有极快的交易速度、更好的隐私保护、更低的交易成本、不容易被恶意攻击，并且能做到身份认证等金融行业必需的要求。</p>
+<h4 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h4><p>R3CEV Corda平台以及超级账本项目(Hyperledger project)</p>
+]]></content>
       <categories>
-          
-          <category> variety </category>
-          
+        <category>variety</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> variety </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>text</title>
-      <link href="2021/05/19/text/"/>
-      <url>2021/05/19/text/</url>
-      
-        <content type="html"><![CDATA[<p><span class="github-emoji"><span>😄</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></p>]]></content>
-      
-      
+      <tags>
+        <tag>variety</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>联盟链概念</title>
+    <url>/2021/06/09/%E8%81%94%E7%9B%9F%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
+    <content><![CDATA[<p><img src="/2021/06/09/%E8%81%94%E7%9B%9F%E9%93%BE%E6%A6%82%E5%BF%B5/1.png"></p>
+<h3 id="联盟链"><a href="#联盟链" class="headerlink" title="联盟链"></a>联盟链</h3><h4 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h4><p>联盟链是指有若干个机构共同参与管理的区块链，每个机构都运行着一个或多个节点，其中的数据只允许系统内不同的机构进行读写和发送交易，并且共同来记录交易数据。</p>
+<h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><p>一是交易成本更便宜。交易只需被几个受信的高算力节点验证就可以了，而无需全网确认。</p>
+<p>二是<a href="https://baike.baidu.com/item/%E8%8A%82%E7%82%B9">节点</a>可以很好地连接，故障可以迅速通过人工干预来修复，并允许使用共识算法减少区块时间，从而更快完成交易。</p>
+<p>三是如果读取权限受到限制，可以提供更好的隐私保护。四是更灵活，如果需要的话，运行私有区块链的共同体或公司可以很容易地修改该区块链的规则，还原交易，修改余额等。</p>
+<h4 id="联盟链与私有链"><a href="#联盟链与私有链" class="headerlink" title="联盟链与私有链"></a>联盟链与私有链</h4><p>联盟链和私有链也统称为许可链</p>
+<p>私有链和联盟链之间的设计隐私权限会有不同，联盟链中的权限设计要求往往会更为复杂。</p>
+]]></content>
       <categories>
-          
-          <category> about </category>
-          
+        <category>variety</category>
       </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>区块链blog</title>
-      <link href="2021/05/06/hello-world/"/>
-      <url>2021/05/06/hello-world/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/2021/05/06/hello-world/1.jpg" alt="1"></p><p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo server</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo generate</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tbody><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo deploy</span><br></pre></td></tr></tbody></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-      
-      
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>variety</tag>
+      </tags>
+  </entry>
 </search>
