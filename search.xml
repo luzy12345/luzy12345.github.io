@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>共识机制</title>
-    <url>/2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/</url>
-    <content><![CDATA[<h3 id="共识机制概念"><a href="#共识机制概念" class="headerlink" title="共识机制概念"></a>共识机制概念</h3>]]></content>
+    <title>text</title>
+    <url>/2021/05/19/text/</url>
+    <content><![CDATA[<p><span class="github-emoji"><span>😄</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></p>
+]]></content>
       <categories>
-        <category>technology</category>
+        <category>about</category>
       </categories>
   </entry>
   <entry>
@@ -26,15 +27,6 @@
 
 <p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>
 ]]></content>
-  </entry>
-  <entry>
-    <title>text</title>
-    <url>/2021/05/19/text/</url>
-    <content><![CDATA[<p><span class="github-emoji"><span>😄</span><img src="https://github.githubassets.com/images/icons/emoji/unicode/1f604.png?v8" aria-hidden="true" onerror="this.parent.classList.add('github-emoji-fallback')"></span></p>
-]]></content>
-      <categories>
-        <category>about</category>
-      </categories>
   </entry>
   <entry>
     <title>公有链概念</title>
@@ -60,6 +52,14 @@
 ]]></content>
       <categories>
         <category>application</category>
+      </categories>
+  </entry>
+  <entry>
+    <title>共识机制</title>
+    <url>/2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/</url>
+    <content><![CDATA[<h3 id="共识机制概念"><a href="#共识机制概念" class="headerlink" title="共识机制概念"></a>共识机制概念</h3>]]></content>
+      <categories>
+        <category>technology</category>
       </categories>
   </entry>
 </search>
