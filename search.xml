@@ -1,138 +1,87 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>联盟链概念</title>
-      <link href="2021/06/09/%E8%81%94%E7%9B%9F%E9%93%BE%E6%A6%82%E5%BF%B5/"/>
-      <url>2021/06/09/%E8%81%94%E7%9B%9F%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/2021/06/09/%E8%81%94%E7%9B%9F%E9%93%BE%E6%A6%82%E5%BF%B5/1.png"></p><h3 id="联盟链"><a href="#联盟链" class="headerlink" title="联盟链"></a>联盟链</h3><h4 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h4><p>联盟链是指有若干个机构共同参与管理的区块链，每个机构都运行着一个或多个节点，其中的数据只允许系统内不同的机构进行读写和发送交易，并且共同来记录交易数据。</p><h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><p>一是交易成本更便宜。交易只需被几个受信的高算力节点验证就可以了，而无需全网确认。</p><p>二是<a href="https://baike.baidu.com/item/%E8%8A%82%E7%82%B9">节点</a>可以很好地连接，故障可以迅速通过人工干预来修复，并允许使用共识算法减少区块时间，从而更快完成交易。</p><p>三是如果读取权限受到限制，可以提供更好的隐私保护。四是更灵活，如果需要的话，运行私有区块链的共同体或公司可以很容易地修改该区块链的规则，还原交易，修改余额等。</p><h4 id="联盟链与私有链"><a href="#联盟链与私有链" class="headerlink" title="联盟链与私有链"></a>联盟链与私有链</h4><p>联盟链和私有链也统称为许可链</p><p>私有链和联盟链之间的设计隐私权限会有不同，联盟链中的权限设计要求往往会更为复杂。</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>公有链概念</title>
+    <url>/2021/05/20/%E5%85%AC%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="cfb7c7f339e44a1be6b025d13b8708ee05d285d30d9f16217dbae0ea746f56b8">dd156bcc9abd090d64f303bf2ab77662e4b9e177398b97b54465dcd101adcd72ae8665b58c8aa3c4da3ac06d9e624acc4b9c548d0f31f6e86e0b4eecae27fbba1d10d549e504a455b2311ef5bb48236e45111f89e6e29638749af5ad33e9b17154dc4b6ea4a8b91f81eeaa314cb8f9e67d165cb5c8312044a268b058abb0eb3faa4106c42eecc41f8064b58a41c68122cb61752f8210a16302d690b6bf1150606d7c7aab7b736f48d898a3306ee2990c1180598738db74ee3a7c8ffc714a349a537779f350c829aff2ceb14882d68f1e46a5b93360385580e9010258e1e1c1d676022f9b8a7a1275e28f3cf23eff10df8306767ba9f7b82cd4952f8858d4bf2c38caacaaf1b23277fdc481d85f76d3ed9d764020729e9bd2e08e8062615c041c1353562efbd39f21f7cf3b93605c526f6cb5557eea26e275a87b2182c07a65ead0289e7ec91d4eaa538edbfe2040fcf14acb90c24bcdb07f5562af8d070893e35dd3720ae002465eeb72d08f69eebcfb227e8bf0e15cb3535e4b00e0d19d66cb5990fe56008dc383e333d4f275893fb3a45ec0f037878e88046fefa51f77cd182d833957156fce6f0dd9ec1a1c407989111bcbbdb39d0438bf6f8463dd8d01783e09b5fe72aaae6f0ffdcd0422adb1e8147bc2b34d2d8245f93ca7841c00d04ec65cf392398635252c7f229b5281950489a82a5f000f721fdd50ddff85128acda48a570924136eba32b09f5e733109c542f2c5c891f4b6dbe5a6f59b4dbfea33dbf6d086c617f475bb3ab025c1e7585b7f64cafcea67afa7266f8d21a07597797b1c05b70aee174cbb95b57fa2bf91974fd2a4985eaf409cc9a0aed32fe0ef703bf7407e9498e25e5c74af6ba34cb2aa7b67cdae66b98b04c5f540eed6cdc0ea80078a6da506a763bd17c75e4cfd5f90f2b80f94f28bcfa7a90f6720b831ec0cb087e6f224be862fa9919e379dd237cfb70c9d8550f328e83775678434cd02e4d683d89d6bb97023080f1e6b1a1b415cf4d5c65c603347403f22c37281be7480d08e3061dd906c0a777aaeb1df8500ee24a3fb57f5a6eaf507df5766c9d6bbba2cfd9148b01c1d4b16190a1b16c010d44fa58de765e2caac6e404d001b25721551b72461562350fe4dd49d8b4b1fdee1fb16fe4b88eb2be7227e0a5d159e00ae71d3ee7e3d52665e17e7a8294c18f94c2ae60ab201a4b190b6dd1816026dfd704a54e0872df712e3bf65910e14908707f1c372aa98f4b8724e8fc265e6d282d3e99a135849912a2f03bb46eb17523e2058238ef66dfdce5f9fa4984c5d976f3516872d2196fc1fadf4db5e2ea1011713f5b9fa4f0d80a2edb39b317efaf1aa94e32dad1104ec3052a95c5b4d0ba287722269645bc343b58920e59fcc1d80d6818974c3485c664aa97d0e4406f78e16981d84a19be9573c69fcd41c8da664e0afa0583affdcab4ef38bd122272b410eb7684f2b5bd5213120cd6d76365df242861dcfcfcaa1a33a97d98f6111c4a716a32171bc642654fbe532398198db63c51dd7e3deb1b2cc6bade6cfc863b956dd5aeb3e88df2d60d25eea2c07b4035e1138720450972e97e779d0498febbb5f18e8</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
-          
-          <category> variety </category>
-          
-          <category> consortium blockchain </category>
-          
+        <category>variety</category>
+        <category>public blockchain</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> variety </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>私有链概念</title>
-      <link href="2021/06/09/%E7%A7%81%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/"/>
-      <url>2021/06/09/%E7%A7%81%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
-      
-        <content type="html"><![CDATA[<h3 id="私有链"><a href="#私有链" class="headerlink" title="私有链"></a>私有链</h3><p><img src="/2021/06/09/%E7%A7%81%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/1.png"></p><h4 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h4><p>私有链是指其写入权限由某个组织和机构控制的区块链，参与节点的资格会被严格限制。</p><h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><p>私有链往往可以有极快的交易速度、更好的隐私保护、更低的交易成本、不容易被恶意攻击，并且能做到身份认证等金融行业必需的要求。</p><h4 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h4><p>R3CEV Corda平台以及超级账本项目(Hyperledger project)</p>]]></content>
-      
-      
+      <tags>
+        <tag>variety</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>共识机制</title>
+    <url>/2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/</url>
+    <content><![CDATA[<p><img src="/2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/1.png"></p>
+<h3 id="共识机制"><a href="#共识机制" class="headerlink" title="共识机制"></a>共识机制</h3><h4 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h4><p>​    所谓“共识机制”，是通过特殊节点的投票，在很短的时间内完成对交易的验证和确认；对一笔交易，如果利益不相干的若干个节点能够达成共识，我们就可以认为全网对此也能够达成共识。再通俗一点来讲，如果中国一名微博大V、美国一名虚拟币玩家、一名非洲留学生和一名欧洲旅行者互不相识，但他们都一致认为你是个好人，那么基本上就可以断定你这人还不坏。</p>
+<h4 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h4><p>工作量证明机制（PoW）、权益证明机制（PoS）、股份授权证明机制（DPoS）、Pool验证池和实用拜占庭 PBFT。</p>
+]]></content>
       <categories>
-          
-          <category> variety </category>
-          
-          <category> private blockchain </category>
-          
+        <category>technology</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> variety </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>区块链热门应用</title>
-      <link href="2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/"/>
-      <url>2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/1.png"></p><h3 id="区块链热门应用及应用场景"><a href="#区块链热门应用及应用场景" class="headerlink" title="区块链热门应用及应用场景"></a>区块链热门应用及应用场景</h3>]]></content>
-      
-      
+      <tags>
+        <tag>technology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>区块链热门应用</title>
+    <url>/2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/</url>
+    <content><![CDATA[<p><img src="/2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/1.png"></p>
+<h3 id="区块链热门应用及应用场景"><a href="#区块链热门应用及应用场景" class="headerlink" title="区块链热门应用及应用场景"></a>区块链热门应用及应用场景</h3>]]></content>
       <categories>
-          
-          <category> application </category>
-          
+        <category>application</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> app </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>共识机制</title>
-      <link href="2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/"/>
-      <url>2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/1.png"></p><h3 id="共识机制"><a href="#共识机制" class="headerlink" title="共识机制"></a>共识机制</h3><h4 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h4><p>​    所谓“共识机制”，是通过特殊节点的投票，在很短的时间内完成对交易的验证和确认；对一笔交易，如果利益不相干的若干个节点能够达成共识，我们就可以认为全网对此也能够达成共识。再通俗一点来讲，如果中国一名微博大V、美国一名虚拟币玩家、一名非洲留学生和一名欧洲旅行者互不相识，但他们都一致认为你是个好人，那么基本上就可以断定你这人还不坏。</p><h4 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h4><p>工作量证明机制（PoW）、权益证明机制（PoS）、股份授权证明机制（DPoS）、Pool验证池和实用拜占庭 PBFT。</p>]]></content>
-      
-      
+      <tags>
+        <tag>app</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>私有链概念</title>
+    <url>/2021/06/09/%E7%A7%81%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
+    <content><![CDATA[<h3 id="私有链"><a href="#私有链" class="headerlink" title="私有链"></a>私有链</h3><p><img src="/2021/06/09/%E7%A7%81%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/1.png"></p>
+<h4 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h4><p>私有链是指其写入权限由某个组织和机构控制的区块链，参与节点的资格会被严格限制。</p>
+<h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><p>私有链往往可以有极快的交易速度、更好的隐私保护、更低的交易成本、不容易被恶意攻击，并且能做到身份认证等金融行业必需的要求。</p>
+<h4 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h4><p>R3CEV Corda平台以及超级账本项目(Hyperledger project)</p>
+]]></content>
       <categories>
-          
-          <category> technology </category>
-          
+        <category>variety</category>
+        <category>private blockchain</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> technology </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>公有链概念</title>
-      <link href="2021/05/20/%E5%85%AC%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/"/>
-      <url>2021/05/20/%E5%85%AC%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
-      
-        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="cfb7c7f339e44a1be6b025d13b8708ee05d285d30d9f16217dbae0ea746f56b8">dd156bcc9abd090d64f303bf2ab77662e4b9e177398b97b54465dcd101adcd72ae8665b58c8aa3c4da3ac06d9e624acc4b9c548d0f31f6e86e0b4eecae27fbba1d10d549e504a455b2311ef5bb48236e45111f89e6e29638749af5ad33e9b17154dc4b6ea4a8b91f81eeaa314cb8f9e67d165cb5c8312044a268b058abb0eb3faa4106c42eecc41f8064b58a41c68122cb61752f8210a16302d690b6bf1150606d7c7aab7b736f48d898a3306ee2990c1180598738db74ee3a7c8ffc714a349a537779f350c829aff2ceb14882d68f1e46a5b93360385580e9010258e1e1c1d676022f9b8a7a1275e28f3cf23eff10df8306767ba9f7b82cd4952f8858d4bf2c38caacaaf1b23277fdc481d85f76d3ed9d764020729e9bd2e08e8062615c041c1353562efbd39f21f7cf3b93605c526f6cb5557eea26e275a87b2182c07a65ead0289e7ec91d4eaa538edbfe2040fcf14acb90c24bcdb07f5562af8d070893e35dd3720ae002465eeb72d08f69eebcfb227e8bf0e15cb3535e4b00e0d19d66cb5990fe56008dc383e333d4f275893fb3a45ec0f037878e88046fefa51f77cd182d833957156fce6f0dd9ec1a1c407989111bcbbdb39d0438bf6f8463dd8d01783e09b5fe72aaae6f0ffdcd0422adb1e8147bc2b34d2d8245f93ca7841c00d04ec65cf392398635252c7f229b5281950489a82a5f000f721fdd50ddff85128acda48a570924136eba32b09f5e733109c542f2c5c891f4b6dbe5a6f59b4dbfea33dbf6d086c617f475bb3ab025c1e7585b7f64cafcea67afa7266f8d21a07597797b1c05b70aee174cbb95b57fa2bf91974fd2a4985eaf409cc9a0aed32fe0ef703bf7407e9498e25e5c74af6ba34cb2aa7b67cdae66b98b04c5f540eed6cdc0ea80078a6da506a763bd17c75e4cfd5f90f2b80f94f28bcfa7a90f6720b831ec0cb087e6f224be862fa9919e379dd237cfb70c9d8550f328e83775678434cd02e4d683d89d6bb97023080f1e6b1a1b415cf4d5c65c603347403f22c37281be7480d08e3061dd906c0a777aaeb1df8500ee24a3fb57f5a6eaf507df5766c9d6bbba2cfd9148b01c1d4b16190a1b16c010d44fa58de765e2caac6e404d001b25721551b72461562350fe4dd49d8b4b1fdee1fb16fe4b88eb2be7227e0a5d159e00ae71d3ee7e3d52665e17e7a8294c18f94c2ae60ab201a4b190b6dd1816026dfd704a54e0872df712e3bf65910e14908707f1c372aa98f4b8724e8fc265e6d282d3e99a135849912a2f03bb46eb17523e2058238ef66dfdce5f9fa4984c5d976f3516872d2196fc1fadf4db5e2ea1011713f5b9fa4f0d80a2edb39b317efaf1aa94e32dad1104ec3052a95c5b4d0ba287722269645bc343b58920e59fcc1d80d6818974c3485c664aa97d0e4406f78e16981d84a19be9573c69fcd41c8da664e0afa0583affdcab4ef38bd122272b410eb7684f2b5bd5213120cd6d76365df242861dcfcfcaa1a33a97d98f6111c4a716a32171bc642654fbe532398198db63c51dd7e3deb1b2cc6bade6cfc863b956dd5aeb3e88df2d60d25eea2c07b4035e1138720450972e97e779d0498febbb5f18e8</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      
-      
+      <tags>
+        <tag>variety</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>联盟链概念</title>
+    <url>/2021/06/09/%E8%81%94%E7%9B%9F%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
+    <content><![CDATA[<p><img src="/2021/06/09/%E8%81%94%E7%9B%9F%E9%93%BE%E6%A6%82%E5%BF%B5/1.png"></p>
+<h3 id="联盟链"><a href="#联盟链" class="headerlink" title="联盟链"></a>联盟链</h3><h4 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h4><p>联盟链是指有若干个机构共同参与管理的区块链，每个机构都运行着一个或多个节点，其中的数据只允许系统内不同的机构进行读写和发送交易，并且共同来记录交易数据。</p>
+<h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><p>一是交易成本更便宜。交易只需被几个受信的高算力节点验证就可以了，而无需全网确认。</p>
+<p>二是<a href="https://baike.baidu.com/item/%E8%8A%82%E7%82%B9">节点</a>可以很好地连接，故障可以迅速通过人工干预来修复，并允许使用共识算法减少区块时间，从而更快完成交易。</p>
+<p>三是如果读取权限受到限制，可以提供更好的隐私保护。四是更灵活，如果需要的话，运行私有区块链的共同体或公司可以很容易地修改该区块链的规则，还原交易，修改余额等。</p>
+<h4 id="联盟链与私有链"><a href="#联盟链与私有链" class="headerlink" title="联盟链与私有链"></a>联盟链与私有链</h4><p>联盟链和私有链也统称为许可链</p>
+<p>私有链和联盟链之间的设计隐私权限会有不同，联盟链中的权限设计要求往往会更为复杂。</p>
+]]></content>
       <categories>
-          
-          <category> variety </category>
-          
-          <category> public blockchain </category>
-          
+        <category>variety</category>
+        <category>consortium blockchain</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> variety </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>variety</tag>
+      </tags>
+  </entry>
 </search>
