@@ -1,22 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>presentation</title>
-    <url>/2021/06/16/%E4%BB%8B%E7%BB%8D/</url>
-    <content><![CDATA[<h3 id="关于这个网站"><a href="#关于这个网站" class="headerlink" title="关于这个网站"></a>关于这个网站</h3><h4 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h4><p>​    将打造一个用于普及区块链理论知识的网站，该网站支持更新上传文章，随时更新区块链最新讯息。适用于想要了解区块链的小白。</p>
-<h4 id="区块链"><a href="#区块链" class="headerlink" title="区块链"></a>区块链</h4><p>​    区块链是一个<a href="https://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/138928">信息技术</a>领域的术语。从本质上讲，它是一个共享数据库，存储于其中的数据或信息，具有“不可伪造”“全程留痕”“可以追溯”“公开透明”“集体维护”等特征。基于这些特征，<a href="https://baike.baidu.com/item/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/23686191">区块链技术</a>奠定了坚实的“信任”基础，创造了可靠的“合作”机制，具有广阔的运用前景。</p>
-<p>​    区块链起源于<a href="https://baike.baidu.com/item/%E6%AF%94%E7%89%B9%E5%B8%81/4143690">比特币</a>，2008年11月1日，一位自称<a href="https://baike.baidu.com/item/%E4%B8%AD%E6%9C%AC%E8%81%AA/5740822">中本聪</a>(Satoshi Nakamoto)的人发表了《比特币:一种点对点的电子现金系统》一文，阐述了基于<a href="https://baike.baidu.com/item/P2P/139810">P2P</a>网络技术、加密技术、<a href="https://baike.baidu.com/item/%E6%97%B6%E9%97%B4%E6%88%B3/6439235">时间戳</a>技术、区块链技术等的电子现金系统的构架理念，这标志着比特币的诞生。两个月后理论步入实践，2009年1月3日第一个序号为0的<a href="https://baike.baidu.com/item/%E5%88%9B%E4%B8%96%E5%8C%BA%E5%9D%97/22448241">创世区块</a>诞生。几天后2009年1月9日出现序号为1的区块，并与序号为0的创世区块相连接形成了链，标志着区块链的诞生。</p>
-<p>​    近年来，世界对比特币的态度起起落落，但作为比特币底层技术之一的区块链技术日益受到重视。在比特币形成过程中，区块是一个一个的存储单元，记录了一定时间内各个区块节点全部的交流信息。各个区块之间通过随机<a href="https://baike.baidu.com/item/%E6%95%A3%E5%88%97/9939480">散列</a>(也称哈希算法)实现链接，后一个区块包含前一个区块的哈希值，随着信息交流的扩大，一个区块与一个区块相继接续，形成的结果就叫区块链。</p>
-<h4 id="作者有话说"><a href="#作者有话说" class="headerlink" title="作者有话说"></a>作者有话说</h4><p>​    目前，对于区块链技术的研究还处于探索阶段，打造此网站的目的在于共同学习。随着世界对于区块链、虚拟货币态度的转变，对区块链技术的深入开发研究，将跟随着世界的脚步学习区块链，更新网站的学习资料。若有任何问题或者建议，可以在评论区提出，我们将尽力回答和虚心借鉴。</p>
-]]></content>
-      <categories>
-        <category>about</category>
-      </categories>
-  </entry>
-  <entry>
     <title>dpos</title>
     <url>/2021/06/16/dpos/</url>
-    <content><![CDATA[<h2 id="DPoS"><a href="#DPoS" class="headerlink" title="DPoS"></a>DPoS</h2><p>Dpos是一种基于投票选举共识算法，无需挖矿。</p>
+    <content><![CDATA[<p><img src="/2021/06/16/dpos/1.png"></p>
+<h2 id="DPoS"><a href="#DPoS" class="headerlink" title="DPoS"></a>DPoS</h2><p>Dpos是一种基于投票选举共识算法，无需挖矿。</p>
 <h3 id="基本原理"><a href="#基本原理" class="headerlink" title="基本原理"></a>基本原理</h3><h4 id="投票过程"><a href="#投票过程" class="headerlink" title="投票过程"></a>投票过程</h4><p>​    受托人来自于普通用户节点，需要首先进行注册，然后通过宣传推广，寻求社区信任并投票，获得足够排行到前101名的时候，才可以被系统接纳为真正可以处理区块的节点，并获得铸币奖励。<br>​    普通用户节点投票所占的比重取决于每个节点持有的货币数量，这也意味着持币多的人将比持币少的人有更大的影响力，这可能会造成一定的中心化，但比特币是通过计算机算力争夺记账权，算力大的人容易获胜。DPOS机制是通过资产占比来投票，更多的加入了社区人的力量，人们为了自身利益的最大化会投票选择相对可靠的节点，相比又更加安全和去中心化。</p>
 <h4 id="选举过程"><a href="#选举过程" class="headerlink" title="选举过程"></a>选举过程</h4><p>​    在比特币中，会投票选出101个委托人，这些可信节点将拥有记账的权力，由他们创建区块。这101个节点拥有的权力相等，每成功生成一个区块后出块者和投票者将获得奖励。</p>
 <h4 id="记账过程"><a href="#记账过程" class="headerlink" title="记账过程"></a>记账过程</h4><p>​    首先算法将随机指定生产者的出块顺序，每一个生产者将根据顺序创建区块，只负责一个块，每一个区块产生后将传递给下一个节点，第二个节点要确认上一个区块的内容，同时负责打包新的区块。当某一个区块被确认三分之二后，该区块就成为了上联区块，不可逆转。<br>委托人的工作</p>
@@ -52,65 +40,17 @@
       </tags>
   </entry>
   <entry>
-    <title>联盟链概念</title>
-    <url>/2021/06/09/%E8%81%94%E7%9B%9F%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
-    <content><![CDATA[<p><img src="/2021/06/09/%E8%81%94%E7%9B%9F%E9%93%BE%E6%A6%82%E5%BF%B5/1.png"></p>
-<h3 id="联盟链"><a href="#联盟链" class="headerlink" title="联盟链"></a>联盟链</h3><h4 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h4><p>联盟链是指有若干个机构共同参与管理的区块链，每个机构都运行着一个或多个节点，其中的数据只允许系统内不同的机构进行读写和发送交易，并且共同来记录交易数据。</p>
-<h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><p>一是交易成本更便宜。交易只需被几个受信的高算力节点验证就可以了，而无需全网确认。</p>
-<p>二是<a href="https://baike.baidu.com/item/%E8%8A%82%E7%82%B9">节点</a>可以很好地连接，故障可以迅速通过人工干预来修复，并允许使用共识算法减少区块时间，从而更快完成交易。</p>
-<p>三是如果读取权限受到限制，可以提供更好的隐私保护。四是更灵活，如果需要的话，运行私有区块链的共同体或公司可以很容易地修改该区块链的规则，还原交易，修改余额等。</p>
-<h4 id="联盟链与私有链"><a href="#联盟链与私有链" class="headerlink" title="联盟链与私有链"></a>联盟链与私有链</h4><p>联盟链和私有链也统称为许可链</p>
-<p>私有链和联盟链之间的设计隐私权限会有不同，联盟链中的权限设计要求往往会更为复杂。</p>
+    <title>presentation</title>
+    <url>/2021/06/16/%E4%BB%8B%E7%BB%8D/</url>
+    <content><![CDATA[<h3 id="关于这个网站"><a href="#关于这个网站" class="headerlink" title="关于这个网站"></a>关于这个网站</h3><h4 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h4><p>​    将打造一个用于普及区块链理论知识的网站，该网站支持更新上传文章，随时更新区块链最新讯息。适用于想要了解区块链的小白。</p>
+<h4 id="区块链"><a href="#区块链" class="headerlink" title="区块链"></a>区块链</h4><p>​    区块链是一个<a href="https://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/138928">信息技术</a>领域的术语。从本质上讲，它是一个共享数据库，存储于其中的数据或信息，具有“不可伪造”“全程留痕”“可以追溯”“公开透明”“集体维护”等特征。基于这些特征，<a href="https://baike.baidu.com/item/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/23686191">区块链技术</a>奠定了坚实的“信任”基础，创造了可靠的“合作”机制，具有广阔的运用前景。</p>
+<p>​    区块链起源于<a href="https://baike.baidu.com/item/%E6%AF%94%E7%89%B9%E5%B8%81/4143690">比特币</a>，2008年11月1日，一位自称<a href="https://baike.baidu.com/item/%E4%B8%AD%E6%9C%AC%E8%81%AA/5740822">中本聪</a>(Satoshi Nakamoto)的人发表了《比特币:一种点对点的电子现金系统》一文，阐述了基于<a href="https://baike.baidu.com/item/P2P/139810">P2P</a>网络技术、加密技术、<a href="https://baike.baidu.com/item/%E6%97%B6%E9%97%B4%E6%88%B3/6439235">时间戳</a>技术、区块链技术等的电子现金系统的构架理念，这标志着比特币的诞生。两个月后理论步入实践，2009年1月3日第一个序号为0的<a href="https://baike.baidu.com/item/%E5%88%9B%E4%B8%96%E5%8C%BA%E5%9D%97/22448241">创世区块</a>诞生。几天后2009年1月9日出现序号为1的区块，并与序号为0的创世区块相连接形成了链，标志着区块链的诞生。</p>
+<p>​    近年来，世界对比特币的态度起起落落，但作为比特币底层技术之一的区块链技术日益受到重视。在比特币形成过程中，区块是一个一个的存储单元，记录了一定时间内各个区块节点全部的交流信息。各个区块之间通过随机<a href="https://baike.baidu.com/item/%E6%95%A3%E5%88%97/9939480">散列</a>(也称哈希算法)实现链接，后一个区块包含前一个区块的哈希值，随着信息交流的扩大，一个区块与一个区块相继接续，形成的结果就叫区块链。</p>
+<h4 id="作者有话说"><a href="#作者有话说" class="headerlink" title="作者有话说"></a>作者有话说</h4><p>​    目前，对于区块链技术的研究还处于探索阶段，打造此网站的目的在于共同学习。随着世界对于区块链、虚拟货币态度的转变，对区块链技术的深入开发研究，将跟随着世界的脚步学习区块链，更新网站的学习资料。若有任何问题或者建议，可以在评论区提出，我们将尽力回答和虚心借鉴。</p>
 ]]></content>
       <categories>
-        <category>variety</category>
-        <category>consortium blockchain</category>
+        <category>about</category>
       </categories>
-      <tags>
-        <tag>variety</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>私有链概念</title>
-    <url>/2021/06/09/%E7%A7%81%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
-    <content><![CDATA[<h3 id="私有链"><a href="#私有链" class="headerlink" title="私有链"></a>私有链</h3><p><img src="/2021/06/09/%E7%A7%81%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/1.png"></p>
-<h4 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h4><p>私有链是指其写入权限由某个组织和机构控制的区块链，参与节点的资格会被严格限制。</p>
-<h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><p>私有链往往可以有极快的交易速度、更好的隐私保护、更低的交易成本、不容易被恶意攻击，并且能做到身份认证等金融行业必需的要求。</p>
-<h4 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h4><p>R3CEV Corda平台以及超级账本项目(Hyperledger project)</p>
-]]></content>
-      <categories>
-        <category>variety</category>
-        <category>private blockchain</category>
-      </categories>
-      <tags>
-        <tag>variety</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>区块链热门应用</title>
-    <url>/2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/</url>
-    <content><![CDATA[<p><img src="/2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/1.png"></p>
-<h3 id="区块链热门应用及应用场景"><a href="#区块链热门应用及应用场景" class="headerlink" title="区块链热门应用及应用场景"></a>区块链热门应用及应用场景</h3>]]></content>
-      <categories>
-        <category>application</category>
-      </categories>
-      <tags>
-        <tag>app</tag>
-      </tags>
-  </entry>
-  <entry>
-    <title>共识机制</title>
-    <url>/2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/</url>
-    <content><![CDATA[<p><img src="/2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/1.png"></p>
-<h3 id="共识机制"><a href="#共识机制" class="headerlink" title="共识机制"></a>共识机制</h3><h4 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h4><p>​    所谓“共识机制”，是通过特殊节点的投票，在很短的时间内完成对交易的验证和确认；对一笔交易，如果利益不相干的若干个节点能够达成共识，我们就可以认为全网对此也能够达成共识。再通俗一点来讲，如果中国一名微博大V、美国一名虚拟币玩家、一名非洲留学生和一名欧洲旅行者互不相识，但他们都一致认为你是个好人，那么基本上就可以断定你这人还不坏。</p>
-<h4 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h4><p>工作量证明机制（PoW）、权益证明机制（PoS）、股份授权证明机制（DPoS）、Pool验证池和实用拜占庭 PBFT。</p>
-]]></content>
-      <categories>
-        <category>technology</category>
-      </categories>
-      <tags>
-        <tag>technology</tag>
-      </tags>
   </entry>
   <entry>
     <title>公有链概念</title>
@@ -130,6 +70,67 @@
       <categories>
         <category>variety</category>
         <category>public blockchain</category>
+      </categories>
+      <tags>
+        <tag>variety</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>共识机制</title>
+    <url>/2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/</url>
+    <content><![CDATA[<p><img src="/2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/1.png"></p>
+<h3 id="共识机制"><a href="#共识机制" class="headerlink" title="共识机制"></a>共识机制</h3><h4 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h4><p>​    所谓“共识机制”，是通过特殊节点的投票，在很短的时间内完成对交易的验证和确认；对一笔交易，如果利益不相干的若干个节点能够达成共识，我们就可以认为全网对此也能够达成共识。再通俗一点来讲，如果中国一名微博大V、美国一名虚拟币玩家、一名非洲留学生和一名欧洲旅行者互不相识，但他们都一致认为你是个好人，那么基本上就可以断定你这人还不坏。</p>
+<h4 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h4><p>工作量证明机制（PoW）、权益证明机制（PoS）、股份授权证明机制（DPoS）、Pool验证池和实用拜占庭 PBFT。</p>
+]]></content>
+      <categories>
+        <category>technology</category>
+      </categories>
+      <tags>
+        <tag>technology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>区块链热门应用</title>
+    <url>/2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/</url>
+    <content><![CDATA[<p><img src="/2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/1.png"></p>
+<h3 id="区块链热门应用及应用场景"><a href="#区块链热门应用及应用场景" class="headerlink" title="区块链热门应用及应用场景"></a>区块链热门应用及应用场景</h3>]]></content>
+      <categories>
+        <category>application</category>
+      </categories>
+      <tags>
+        <tag>app</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>私有链概念</title>
+    <url>/2021/06/09/%E7%A7%81%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
+    <content><![CDATA[<h3 id="私有链"><a href="#私有链" class="headerlink" title="私有链"></a>私有链</h3><p><img src="/2021/06/09/%E7%A7%81%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/1.png"></p>
+<h4 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h4><p>私有链是指其写入权限由某个组织和机构控制的区块链，参与节点的资格会被严格限制。</p>
+<h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><p>私有链往往可以有极快的交易速度、更好的隐私保护、更低的交易成本、不容易被恶意攻击，并且能做到身份认证等金融行业必需的要求。</p>
+<h4 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h4><p>R3CEV Corda平台以及超级账本项目(Hyperledger project)</p>
+]]></content>
+      <categories>
+        <category>variety</category>
+        <category>private blockchain</category>
+      </categories>
+      <tags>
+        <tag>variety</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>联盟链概念</title>
+    <url>/2021/06/09/%E8%81%94%E7%9B%9F%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
+    <content><![CDATA[<p><img src="/2021/06/09/%E8%81%94%E7%9B%9F%E9%93%BE%E6%A6%82%E5%BF%B5/1.png"></p>
+<h3 id="联盟链"><a href="#联盟链" class="headerlink" title="联盟链"></a>联盟链</h3><h4 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h4><p>联盟链是指有若干个机构共同参与管理的区块链，每个机构都运行着一个或多个节点，其中的数据只允许系统内不同的机构进行读写和发送交易，并且共同来记录交易数据。</p>
+<h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><p>一是交易成本更便宜。交易只需被几个受信的高算力节点验证就可以了，而无需全网确认。</p>
+<p>二是<a href="https://baike.baidu.com/item/%E8%8A%82%E7%82%B9">节点</a>可以很好地连接，故障可以迅速通过人工干预来修复，并允许使用共识算法减少区块时间，从而更快完成交易。</p>
+<p>三是如果读取权限受到限制，可以提供更好的隐私保护。四是更灵活，如果需要的话，运行私有区块链的共同体或公司可以很容易地修改该区块链的规则，还原交易，修改余额等。</p>
+<h4 id="联盟链与私有链"><a href="#联盟链与私有链" class="headerlink" title="联盟链与私有链"></a>联盟链与私有链</h4><p>联盟链和私有链也统称为许可链</p>
+<p>私有链和联盟链之间的设计隐私权限会有不同，联盟链中的权限设计要求往往会更为复杂。</p>
+]]></content>
+      <categories>
+        <category>variety</category>
+        <category>consortium blockchain</category>
       </categories>
       <tags>
         <tag>variety</tag>
