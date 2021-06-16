@@ -1,186 +1,139 @@
 <?xml version="1.0" encoding="utf-8"?>
-<search> 
-  
-  
-    
-    <entry>
-      <title>presentation</title>
-      <link href="2021/06/16/%E4%BB%8B%E7%BB%8D/"/>
-      <url>2021/06/16/%E4%BB%8B%E7%BB%8D/</url>
-      
-        <content type="html"><![CDATA[<h3 id="关于这个网站"><a href="#关于这个网站" class="headerlink" title="关于这个网站"></a>关于这个网站</h3><h4 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h4><p>​    将打造一个用于普及区块链理论知识的网站，该网站支持更新上传文章，随时更新区块链最新讯息。适用于想要了解区块链的小白。</p><h4 id="区块链"><a href="#区块链" class="headerlink" title="区块链"></a>区块链</h4><p>​    区块链是一个<a href="https://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/138928">信息技术</a>领域的术语。从本质上讲，它是一个共享数据库，存储于其中的数据或信息，具有“不可伪造”“全程留痕”“可以追溯”“公开透明”“集体维护”等特征。基于这些特征，<a href="https://baike.baidu.com/item/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/23686191">区块链技术</a>奠定了坚实的“信任”基础，创造了可靠的“合作”机制，具有广阔的运用前景。</p><p>​    区块链起源于<a href="https://baike.baidu.com/item/%E6%AF%94%E7%89%B9%E5%B8%81/4143690">比特币</a>，2008年11月1日，一位自称<a href="https://baike.baidu.com/item/%E4%B8%AD%E6%9C%AC%E8%81%AA/5740822">中本聪</a>(Satoshi Nakamoto)的人发表了《比特币:一种点对点的电子现金系统》一文，阐述了基于<a href="https://baike.baidu.com/item/P2P/139810">P2P</a>网络技术、加密技术、<a href="https://baike.baidu.com/item/%E6%97%B6%E9%97%B4%E6%88%B3/6439235">时间戳</a>技术、区块链技术等的电子现金系统的构架理念，这标志着比特币的诞生。两个月后理论步入实践，2009年1月3日第一个序号为0的<a href="https://baike.baidu.com/item/%E5%88%9B%E4%B8%96%E5%8C%BA%E5%9D%97/22448241">创世区块</a>诞生。几天后2009年1月9日出现序号为1的区块，并与序号为0的创世区块相连接形成了链，标志着区块链的诞生。</p><p>​    近年来，世界对比特币的态度起起落落，但作为比特币底层技术之一的区块链技术日益受到重视。在比特币形成过程中，区块是一个一个的存储单元，记录了一定时间内各个区块节点全部的交流信息。各个区块之间通过随机<a href="https://baike.baidu.com/item/%E6%95%A3%E5%88%97/9939480">散列</a>(也称哈希算法)实现链接，后一个区块包含前一个区块的哈希值，随着信息交流的扩大，一个区块与一个区块相继接续，形成的结果就叫区块链。</p><h4 id="作者有话说"><a href="#作者有话说" class="headerlink" title="作者有话说"></a>作者有话说</h4><p>​    目前，对于区块链技术的研究还处于探索阶段，打造此网站的目的在于共同学习。随着世界对于区块链、虚拟货币态度的转变，对区块链技术的深入开发研究，将跟随着世界的脚步学习区块链，更新网站的学习资料。若有任何问题或者建议，可以在评论区提出，我们将尽力回答和虚心借鉴。</p>]]></content>
-      
-      
+<search>
+  <entry>
+    <title>presentation</title>
+    <url>/2021/06/16/%E4%BB%8B%E7%BB%8D/</url>
+    <content><![CDATA[<h3 id="关于这个网站"><a href="#关于这个网站" class="headerlink" title="关于这个网站"></a>关于这个网站</h3><h4 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h4><p>​    将打造一个用于普及区块链理论知识的网站，该网站支持更新上传文章，随时更新区块链最新讯息。适用于想要了解区块链的小白。</p>
+<h4 id="区块链"><a href="#区块链" class="headerlink" title="区块链"></a>区块链</h4><p>​    区块链是一个<a href="https://baike.baidu.com/item/%E4%BF%A1%E6%81%AF%E6%8A%80%E6%9C%AF/138928">信息技术</a>领域的术语。从本质上讲，它是一个共享数据库，存储于其中的数据或信息，具有“不可伪造”“全程留痕”“可以追溯”“公开透明”“集体维护”等特征。基于这些特征，<a href="https://baike.baidu.com/item/%E5%8C%BA%E5%9D%97%E9%93%BE%E6%8A%80%E6%9C%AF/23686191">区块链技术</a>奠定了坚实的“信任”基础，创造了可靠的“合作”机制，具有广阔的运用前景。</p>
+<p>​    区块链起源于<a href="https://baike.baidu.com/item/%E6%AF%94%E7%89%B9%E5%B8%81/4143690">比特币</a>，2008年11月1日，一位自称<a href="https://baike.baidu.com/item/%E4%B8%AD%E6%9C%AC%E8%81%AA/5740822">中本聪</a>(Satoshi Nakamoto)的人发表了《比特币:一种点对点的电子现金系统》一文，阐述了基于<a href="https://baike.baidu.com/item/P2P/139810">P2P</a>网络技术、加密技术、<a href="https://baike.baidu.com/item/%E6%97%B6%E9%97%B4%E6%88%B3/6439235">时间戳</a>技术、区块链技术等的电子现金系统的构架理念，这标志着比特币的诞生。两个月后理论步入实践，2009年1月3日第一个序号为0的<a href="https://baike.baidu.com/item/%E5%88%9B%E4%B8%96%E5%8C%BA%E5%9D%97/22448241">创世区块</a>诞生。几天后2009年1月9日出现序号为1的区块，并与序号为0的创世区块相连接形成了链，标志着区块链的诞生。</p>
+<p>​    近年来，世界对比特币的态度起起落落，但作为比特币底层技术之一的区块链技术日益受到重视。在比特币形成过程中，区块是一个一个的存储单元，记录了一定时间内各个区块节点全部的交流信息。各个区块之间通过随机<a href="https://baike.baidu.com/item/%E6%95%A3%E5%88%97/9939480">散列</a>(也称哈希算法)实现链接，后一个区块包含前一个区块的哈希值，随着信息交流的扩大，一个区块与一个区块相继接续，形成的结果就叫区块链。</p>
+<h4 id="作者有话说"><a href="#作者有话说" class="headerlink" title="作者有话说"></a>作者有话说</h4><p>​    目前，对于区块链技术的研究还处于探索阶段，打造此网站的目的在于共同学习。随着世界对于区块链、虚拟货币态度的转变，对区块链技术的深入开发研究，将跟随着世界的脚步学习区块链，更新网站的学习资料。若有任何问题或者建议，可以在评论区提出，我们将尽力回答和虚心借鉴。</p>
+]]></content>
       <categories>
-          
-          <category> about </category>
-          
+        <category>about</category>
       </categories>
-      
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>dpos</title>
-      <link href="2021/06/16/dpos/"/>
-      <url>2021/06/16/dpos/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/2021/06/16/dpos/1.png"></p><h2 id="DPoS"><a href="#DPoS" class="headerlink" title="DPoS"></a>DPoS</h2><p>Dpos是一种基于投票选举共识算法，无需挖矿。</p><h3 id="基本原理"><a href="#基本原理" class="headerlink" title="基本原理"></a>基本原理</h3><h4 id="投票过程"><a href="#投票过程" class="headerlink" title="投票过程"></a>投票过程</h4><p>​    受托人来自于普通用户节点，需要首先进行注册，然后通过宣传推广，寻求社区信任并投票，获得足够排行到前101名的时候，才可以被系统接纳为真正可以处理区块的节点，并获得铸币奖励。<br>​    普通用户节点投票所占的比重取决于每个节点持有的货币数量，这也意味着持币多的人将比持币少的人有更大的影响力，这可能会造成一定的中心化，但比特币是通过计算机算力争夺记账权，算力大的人容易获胜。DPOS机制是通过资产占比来投票，更多的加入了社区人的力量，人们为了自身利益的最大化会投票选择相对可靠的节点，相比又更加安全和去中心化。</p><h4 id="选举过程"><a href="#选举过程" class="headerlink" title="选举过程"></a>选举过程</h4><p>​    在比特币中，会投票选出101个委托人，这些可信节点将拥有记账的权力，由他们创建区块。这101个节点拥有的权力相等，每成功生成一个区块后出块者和投票者将获得奖励。</p><h4 id="记账过程"><a href="#记账过程" class="headerlink" title="记账过程"></a>记账过程</h4><p>​    首先算法将随机指定生产者的出块顺序，每一个生产者将根据顺序创建区块，只负责一个块，每一个区块产生后将传递给下一个节点，第二个节点要确认上一个区块的内容，同时负责打包新的区块。当某一个区块被确认三分之二后，该区块就成为了上联区块，不可逆转。<br>委托人的工作</p><h4 id="几个周期"><a href="#几个周期" class="headerlink" title="几个周期"></a>几个周期</h4><p>块周期：一个块10秒<br>委托人周期：生成101个块 16分钟<br>奖励周期：根据区块链高度，设置里程碑时间（Milestone），在某个时间点调整区块奖励。时间间隔在一年左右。</p><h4 id="委托人的工作"><a href="#委托人的工作" class="headerlink" title="委托人的工作"></a>委托人的工作</h4><ol><li><p>提供一台服务器节点，保证节点的正常运行；</p></li><li><p>节点服务器收集网络里的交易；</p></li><li><p>节点验证交易，把交易打包到区块；</p></li><li><p>节点广播区块，其他节点验证后把区块添加到自己的数据库；</p></li></ol><h3 id="优点"><a href="#优点" class="headerlink" title="优点"></a>优点</h3><p>1.共识达成的周期短<br>        每个块的时间为10秒，一笔交易（在得到6-10个确认后）大概1分钟，一个完整的101个块的周期大概仅仅需要16分钟。</p><p>2.能耗低<br>        相比于Pow机制，Dpos不用浪费算力资源去争夺记账权。</p><p>3.免受不必要的逻辑检查。<br>        因为这一块对于大部分共识协议来说，是最大的瓶颈。</p><h3 id="缺点"><a href="#缺点" class="headerlink" title="缺点"></a>缺点</h3><p>1.投票的积极性低<br>        绝大多数持股人（90％+）从未参与投票</p><p> 2.漏块现象<br>        投票选举出的委托人位于世界各地，一个委托人先出块，在确认后返回假设需要4秒，而下一个节点出块确认返回的时间只需要3秒，则后一个区块先上链，这就导致上一个区块漏块。</p><p> 3.对于坏节点的处理存在诸多困难。<br>        社区选举不能及时有效的阻止一些破坏节点的出现，给网络造成安全隐患。</p><p>4.不是“去中心化”，而是“弱中心化” </p><h3 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h3><h4 id="比特股"><a href="#比特股" class="headerlink" title="比特股"></a>比特股</h4><p>​    比特股是一种支持包括虚拟货币、法币以及贵金属等有价值实物的开源分布式交易系统，借由采用股份授权证明机制算法（DPOS）所创立的分布式交易总账。</p><p>​    比特股X发行股份，并可以在用户之间相互流通，就像买卖比特币一样。</p><h4 id="EOS"><a href="#EOS" class="headerlink" title="EOS"></a>EOS</h4><p>​    EOS用超级节点竞选的方式来刺激形成一个活跃的去中心网络，并且，超级节点竞选是与其共识机制 DPOS（委托权益证明）高度匹配的。<br>​    获得投票的 21 个活跃生产者和 179 个候补生产者一起生产 EOS 这条区块链的区块，即运行这个区块链网络。这些区块生产者是动态的，时刻根据投票动态调整。</p>]]></content>
-      
-      
+  </entry>
+  <entry>
+    <title>dpos</title>
+    <url>/2021/06/16/dpos/</url>
+    <content><![CDATA[<p><img src="/2021/06/16/dpos/1.png"></p>
+<h2 id="DPoS"><a href="#DPoS" class="headerlink" title="DPoS"></a>DPoS</h2><p>Dpos是一种基于投票选举共识算法，无需挖矿。</p>
+<h3 id="基本原理"><a href="#基本原理" class="headerlink" title="基本原理"></a>基本原理</h3><h4 id="投票过程"><a href="#投票过程" class="headerlink" title="投票过程"></a>投票过程</h4><p>​    受托人来自于普通用户节点，需要首先进行注册，然后通过宣传推广，寻求社区信任并投票，获得足够排行到前101名的时候，才可以被系统接纳为真正可以处理区块的节点，并获得铸币奖励。<br>​    普通用户节点投票所占的比重取决于每个节点持有的货币数量，这也意味着持币多的人将比持币少的人有更大的影响力，这可能会造成一定的中心化，但比特币是通过计算机算力争夺记账权，算力大的人容易获胜。DPOS机制是通过资产占比来投票，更多的加入了社区人的力量，人们为了自身利益的最大化会投票选择相对可靠的节点，相比又更加安全和去中心化。</p>
+<h4 id="选举过程"><a href="#选举过程" class="headerlink" title="选举过程"></a>选举过程</h4><p>​    在比特币中，会投票选出101个委托人，这些可信节点将拥有记账的权力，由他们创建区块。这101个节点拥有的权力相等，每成功生成一个区块后出块者和投票者将获得奖励。</p>
+<h4 id="记账过程"><a href="#记账过程" class="headerlink" title="记账过程"></a>记账过程</h4><p>​    首先算法将随机指定生产者的出块顺序，每一个生产者将根据顺序创建区块，只负责一个块，每一个区块产生后将传递给下一个节点，第二个节点要确认上一个区块的内容，同时负责打包新的区块。当某一个区块被确认三分之二后，该区块就成为了上联区块，不可逆转。<br>委托人的工作</p>
+<h4 id="几个周期"><a href="#几个周期" class="headerlink" title="几个周期"></a>几个周期</h4><p>块周期：一个块10秒<br>委托人周期：生成101个块 16分钟<br>奖励周期：根据区块链高度，设置里程碑时间（Milestone），在某个时间点调整区块奖励。时间间隔在一年左右。</p>
+<h4 id="委托人的工作"><a href="#委托人的工作" class="headerlink" title="委托人的工作"></a>委托人的工作</h4><ol>
+<li><p>提供一台服务器节点，保证节点的正常运行；</p>
+</li>
+<li><p>节点服务器收集网络里的交易；</p>
+</li>
+<li><p>节点验证交易，把交易打包到区块；</p>
+</li>
+<li><p>节点广播区块，其他节点验证后把区块添加到自己的数据库；</p>
+</li>
+</ol>
+<h3 id="优点"><a href="#优点" class="headerlink" title="优点"></a>优点</h3><p>1.共识达成的周期短<br>        每个块的时间为10秒，一笔交易（在得到6-10个确认后）大概1分钟，一个完整的101个块的周期大概仅仅需要16分钟。</p>
+<p>2.能耗低<br>        相比于Pow机制，Dpos不用浪费算力资源去争夺记账权。</p>
+<p>3.免受不必要的逻辑检查。<br>        因为这一块对于大部分共识协议来说，是最大的瓶颈。</p>
+<h3 id="缺点"><a href="#缺点" class="headerlink" title="缺点"></a>缺点</h3><p>1.投票的积极性低<br>        绝大多数持股人（90％+）从未参与投票</p>
+<p> 2.漏块现象<br>        投票选举出的委托人位于世界各地，一个委托人先出块，在确认后返回假设需要4秒，而下一个节点出块确认返回的时间只需要3秒，则后一个区块先上链，这就导致上一个区块漏块。</p>
+<p> 3.对于坏节点的处理存在诸多困难。<br>        社区选举不能及时有效的阻止一些破坏节点的出现，给网络造成安全隐患。</p>
+<p>4.不是“去中心化”，而是“弱中心化” </p>
+<h3 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h3><h4 id="比特股"><a href="#比特股" class="headerlink" title="比特股"></a>比特股</h4><p>​    比特股是一种支持包括虚拟货币、法币以及贵金属等有价值实物的开源分布式交易系统，借由采用股份授权证明机制算法（DPOS）所创立的分布式交易总账。</p>
+<p>​    比特股X发行股份，并可以在用户之间相互流通，就像买卖比特币一样。</p>
+<h4 id="EOS"><a href="#EOS" class="headerlink" title="EOS"></a>EOS</h4><p>​    EOS用超级节点竞选的方式来刺激形成一个活跃的去中心网络，并且，超级节点竞选是与其共识机制 DPOS（委托权益证明）高度匹配的。<br>​    获得投票的 21 个活跃生产者和 179 个候补生产者一起生产 EOS 这条区块链的区块，即运行这个区块链网络。这些区块生产者是动态的，时刻根据投票动态调整。</p>
+]]></content>
       <categories>
-          
-          <category> technology </category>
-          
-          <category> consensus mechanism </category>
-          
-          <category> DPoS </category>
-          
+        <category>technology</category>
+        <category>consensus mechanism</category>
+        <category>DPoS</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> technology </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>联盟链概念</title>
-      <link href="2021/06/09/%E8%81%94%E7%9B%9F%E9%93%BE%E6%A6%82%E5%BF%B5/"/>
-      <url>2021/06/09/%E8%81%94%E7%9B%9F%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/2021/06/09/%E8%81%94%E7%9B%9F%E9%93%BE%E6%A6%82%E5%BF%B5/1.png"></p><h3 id="联盟链"><a href="#联盟链" class="headerlink" title="联盟链"></a>联盟链</h3><h4 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h4><p>联盟链是指有若干个机构共同参与管理的区块链，每个机构都运行着一个或多个节点，其中的数据只允许系统内不同的机构进行读写和发送交易，并且共同来记录交易数据。</p><h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><p>一是交易成本更便宜。交易只需被几个受信的高算力节点验证就可以了，而无需全网确认。</p><p>二是<a href="https://baike.baidu.com/item/%E8%8A%82%E7%82%B9">节点</a>可以很好地连接，故障可以迅速通过人工干预来修复，并允许使用共识算法减少区块时间，从而更快完成交易。</p><p>三是如果读取权限受到限制，可以提供更好的隐私保护。四是更灵活，如果需要的话，运行私有区块链的共同体或公司可以很容易地修改该区块链的规则，还原交易，修改余额等。</p><h4 id="联盟链与私有链"><a href="#联盟链与私有链" class="headerlink" title="联盟链与私有链"></a>联盟链与私有链</h4><p>联盟链和私有链也统称为许可链</p><p>私有链和联盟链之间的设计隐私权限会有不同，联盟链中的权限设计要求往往会更为复杂。</p>]]></content>
-      
-      
+      <tags>
+        <tag>technology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>联盟链概念</title>
+    <url>/2021/06/09/%E8%81%94%E7%9B%9F%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
+    <content><![CDATA[<p><img src="/2021/06/09/%E8%81%94%E7%9B%9F%E9%93%BE%E6%A6%82%E5%BF%B5/1.png"></p>
+<h3 id="联盟链"><a href="#联盟链" class="headerlink" title="联盟链"></a>联盟链</h3><h4 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h4><p>联盟链是指有若干个机构共同参与管理的区块链，每个机构都运行着一个或多个节点，其中的数据只允许系统内不同的机构进行读写和发送交易，并且共同来记录交易数据。</p>
+<h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><p>一是交易成本更便宜。交易只需被几个受信的高算力节点验证就可以了，而无需全网确认。</p>
+<p>二是<a href="https://baike.baidu.com/item/%E8%8A%82%E7%82%B9">节点</a>可以很好地连接，故障可以迅速通过人工干预来修复，并允许使用共识算法减少区块时间，从而更快完成交易。</p>
+<p>三是如果读取权限受到限制，可以提供更好的隐私保护。四是更灵活，如果需要的话，运行私有区块链的共同体或公司可以很容易地修改该区块链的规则，还原交易，修改余额等。</p>
+<h4 id="联盟链与私有链"><a href="#联盟链与私有链" class="headerlink" title="联盟链与私有链"></a>联盟链与私有链</h4><p>联盟链和私有链也统称为许可链</p>
+<p>私有链和联盟链之间的设计隐私权限会有不同，联盟链中的权限设计要求往往会更为复杂。</p>
+]]></content>
       <categories>
-          
-          <category> variety </category>
-          
-          <category> consortium blockchain </category>
-          
+        <category>variety</category>
+        <category>consortium blockchain</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> variety </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>私有链概念</title>
-      <link href="2021/06/09/%E7%A7%81%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/"/>
-      <url>2021/06/09/%E7%A7%81%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
-      
-        <content type="html"><![CDATA[<h3 id="私有链"><a href="#私有链" class="headerlink" title="私有链"></a>私有链</h3><p><img src="/2021/06/09/%E7%A7%81%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/1.png"></p><h4 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h4><p>私有链是指其写入权限由某个组织和机构控制的区块链，参与节点的资格会被严格限制。</p><h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><p>私有链往往可以有极快的交易速度、更好的隐私保护、更低的交易成本、不容易被恶意攻击，并且能做到身份认证等金融行业必需的要求。</p><h4 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h4><p>R3CEV Corda平台以及超级账本项目(Hyperledger project)</p>]]></content>
-      
-      
+      <tags>
+        <tag>variety</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>私有链概念</title>
+    <url>/2021/06/09/%E7%A7%81%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
+    <content><![CDATA[<h3 id="私有链"><a href="#私有链" class="headerlink" title="私有链"></a>私有链</h3><p><img src="/2021/06/09/%E7%A7%81%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/1.png"></p>
+<h4 id="定义"><a href="#定义" class="headerlink" title="定义"></a>定义</h4><p>私有链是指其写入权限由某个组织和机构控制的区块链，参与节点的资格会被严格限制。</p>
+<h4 id="特点"><a href="#特点" class="headerlink" title="特点"></a>特点</h4><p>私有链往往可以有极快的交易速度、更好的隐私保护、更低的交易成本、不容易被恶意攻击，并且能做到身份认证等金融行业必需的要求。</p>
+<h4 id="应用"><a href="#应用" class="headerlink" title="应用"></a>应用</h4><p>R3CEV Corda平台以及超级账本项目(Hyperledger project)</p>
+]]></content>
       <categories>
-          
-          <category> variety </category>
-          
-          <category> private blockchain </category>
-          
+        <category>variety</category>
+        <category>private blockchain</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> variety </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>区块链热门应用</title>
-      <link href="2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/"/>
-      <url>2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/1.png"></p><h3 id="区块链热门应用及应用场景"><a href="#区块链热门应用及应用场景" class="headerlink" title="区块链热门应用及应用场景"></a>区块链热门应用及应用场景</h3>]]></content>
-      
-      
+      <tags>
+        <tag>variety</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>区块链热门应用</title>
+    <url>/2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/</url>
+    <content><![CDATA[<p><img src="/2021/05/20/%E5%8C%BA%E5%9D%97%E9%93%BE%E7%83%AD%E9%97%A8%E5%BA%94%E7%94%A8/1.png"></p>
+<h3 id="区块链热门应用及应用场景"><a href="#区块链热门应用及应用场景" class="headerlink" title="区块链热门应用及应用场景"></a>区块链热门应用及应用场景</h3>]]></content>
       <categories>
-          
-          <category> application </category>
-          
+        <category>application</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> app </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>共识机制</title>
-      <link href="2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/"/>
-      <url>2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/</url>
-      
-        <content type="html"><![CDATA[<p><img src="/2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/1.png"></p><h3 id="共识机制"><a href="#共识机制" class="headerlink" title="共识机制"></a>共识机制</h3><h4 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h4><p>​    所谓“共识机制”，是通过特殊节点的投票，在很短的时间内完成对交易的验证和确认；对一笔交易，如果利益不相干的若干个节点能够达成共识，我们就可以认为全网对此也能够达成共识。再通俗一点来讲，如果中国一名微博大V、美国一名虚拟币玩家、一名非洲留学生和一名欧洲旅行者互不相识，但他们都一致认为你是个好人，那么基本上就可以断定你这人还不坏。</p><h4 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h4><p>工作量证明机制（PoW）、权益证明机制（PoS）、股份授权证明机制（DPoS）、Pool验证池和实用拜占庭 PBFT。</p>]]></content>
-      
-      
+      <tags>
+        <tag>app</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>共识机制</title>
+    <url>/2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/</url>
+    <content><![CDATA[<p><img src="/2021/05/20/%E5%85%B1%E8%AF%86%E6%9C%BA%E5%88%B6/1.png"></p>
+<h3 id="共识机制"><a href="#共识机制" class="headerlink" title="共识机制"></a>共识机制</h3><h4 id="概念"><a href="#概念" class="headerlink" title="概念"></a>概念</h4><p>​    所谓“共识机制”，是通过特殊节点的投票，在很短的时间内完成对交易的验证和确认；对一笔交易，如果利益不相干的若干个节点能够达成共识，我们就可以认为全网对此也能够达成共识。再通俗一点来讲，如果中国一名微博大V、美国一名虚拟币玩家、一名非洲留学生和一名欧洲旅行者互不相识，但他们都一致认为你是个好人，那么基本上就可以断定你这人还不坏。</p>
+<h4 id="分类"><a href="#分类" class="headerlink" title="分类"></a>分类</h4><p>工作量证明机制（PoW）、权益证明机制（PoS）、股份授权证明机制（DPoS）、Pool验证池和实用拜占庭 PBFT。</p>
+]]></content>
       <categories>
-          
-          <category> technology </category>
-          
+        <category>technology</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> technology </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
-      <title>公有链概念</title>
-      <link href="2021/05/20/%E5%85%AC%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/"/>
-      <url>2021/05/20/%E5%85%AC%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
-      
-        <content type="html"><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">  <script id="hbeData" type="hbeData" data-hmacdigest="cfb7c7f339e44a1be6b025d13b8708ee05d285d30d9f16217dbae0ea746f56b8">dd156bcc9abd090d64f303bf2ab77662e4b9e177398b97b54465dcd101adcd72ae8665b58c8aa3c4da3ac06d9e624acc4b9c548d0f31f6e86e0b4eecae27fbba1d10d549e504a455b2311ef5bb48236e45111f89e6e29638749af5ad33e9b17154dc4b6ea4a8b91f81eeaa314cb8f9e67d165cb5c8312044a268b058abb0eb3faa4106c42eecc41f8064b58a41c68122cb61752f8210a16302d690b6bf1150606d7c7aab7b736f48d898a3306ee2990c1180598738db74ee3a7c8ffc714a349a537779f350c829aff2ceb14882d68f1e46a5b93360385580e9010258e1e1c1d676022f9b8a7a1275e28f3cf23eff10df8306767ba9f7b82cd4952f8858d4bf2c38caacaaf1b23277fdc481d85f76d3ed9d764020729e9bd2e08e8062615c041c1353562efbd39f21f7cf3b93605c526f6cb5557eea26e275a87b2182c07a65ead0289e7ec91d4eaa538edbfe2040fcf14acb90c24bcdb07f5562af8d070893e35dd3720ae002465eeb72d08f69eebcfb227e8bf0e15cb3535e4b00e0d19d66cb5990fe56008dc383e333d4f275893fb3a45ec0f037878e88046fefa51f77cd182d833957156fce6f0dd9ec1a1c407989111bcbbdb39d0438bf6f8463dd8d01783e09b5fe72aaae6f0ffdcd0422adb1e8147bc2b34d2d8245f93ca7841c00d04ec65cf392398635252c7f229b5281950489a82a5f000f721fdd50ddff85128acda48a570924136eba32b09f5e733109c542f2c5c891f4b6dbe5a6f59b4dbfea33dbf6d086c617f475bb3ab025c1e7585b7f64cafcea67afa7266f8d21a07597797b1c05b70aee174cbb95b57fa2bf91974fd2a4985eaf409cc9a0aed32fe0ef703bf7407e9498e25e5c74af6ba34cb2aa7b67cdae66b98b04c5f540eed6cdc0ea80078a6da506a763bd17c75e4cfd5f90f2b80f94f28bcfa7a90f6720b831ec0cb087e6f224be862fa9919e379dd237cfb70c9d8550f328e83775678434cd02e4d683d89d6bb97023080f1e6b1a1b415cf4d5c65c603347403f22c37281be7480d08e3061dd906c0a777aaeb1df8500ee24a3fb57f5a6eaf507df5766c9d6bbba2cfd9148b01c1d4b16190a1b16c010d44fa58de765e2caac6e404d001b25721551b72461562350fe4dd49d8b4b1fdee1fb16fe4b88eb2be7227e0a5d159e00ae71d3ee7e3d52665e17e7a8294c18f94c2ae60ab201a4b190b6dd1816026dfd704a54e0872df712e3bf65910e14908707f1c372aa98f4b8724e8fc265e6d282d3e99a135849912a2f03bb46eb17523e2058238ef66dfdce5f9fa4984c5d976f3516872d2196fc1fadf4db5e2ea1011713f5b9fa4f0d80a2edb39b317efaf1aa94e32dad1104ec3052a95c5b4d0ba287722269645bc343b58920e59fcc1d80d6818974c3485c664aa97d0e4406f78e16981d84a19be9573c69fcd41c8da664e0afa0583affdcab4ef38bd122272b410eb7684f2b5bd5213120cd6d76365df242861dcfcfcaa1a33a97d98f6111c4a716a32171bc642654fbe532398198db63c51dd7e3deb1b2cc6bade6cfc863b956dd5aeb3e88df2d60d25eea2c07b4035e1138720450972e97e779d0498febbb5f18e8</script>  <div class="hbe hbe-content">    <div class="hbe hbe-input hbe-input-default">      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>      </label>    </div>  </div></div><script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
-      
-      
+      <tags>
+        <tag>technology</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>公有链概念</title>
+    <url>/2021/05/20/%E5%85%AC%E6%9C%89%E9%93%BE%E6%A6%82%E5%BF%B5/</url>
+    <content><![CDATA[<div class="hbe hbe-container" id="hexo-blog-encrypt" data-wpm="Oh, this is an invalid password. Check and try again, please." data-whm="OOPS, these decrypted content may changed, but you can still have a look.">
+  <script id="hbeData" type="hbeData" data-hmacdigest="cfb7c7f339e44a1be6b025d13b8708ee05d285d30d9f16217dbae0ea746f56b8">dd156bcc9abd090d64f303bf2ab77662e4b9e177398b97b54465dcd101adcd72ae8665b58c8aa3c4da3ac06d9e624acc4b9c548d0f31f6e86e0b4eecae27fbba1d10d549e504a455b2311ef5bb48236e45111f89e6e29638749af5ad33e9b17154dc4b6ea4a8b91f81eeaa314cb8f9e67d165cb5c8312044a268b058abb0eb3faa4106c42eecc41f8064b58a41c68122cb61752f8210a16302d690b6bf1150606d7c7aab7b736f48d898a3306ee2990c1180598738db74ee3a7c8ffc714a349a537779f350c829aff2ceb14882d68f1e46a5b93360385580e9010258e1e1c1d676022f9b8a7a1275e28f3cf23eff10df8306767ba9f7b82cd4952f8858d4bf2c38caacaaf1b23277fdc481d85f76d3ed9d764020729e9bd2e08e8062615c041c1353562efbd39f21f7cf3b93605c526f6cb5557eea26e275a87b2182c07a65ead0289e7ec91d4eaa538edbfe2040fcf14acb90c24bcdb07f5562af8d070893e35dd3720ae002465eeb72d08f69eebcfb227e8bf0e15cb3535e4b00e0d19d66cb5990fe56008dc383e333d4f275893fb3a45ec0f037878e88046fefa51f77cd182d833957156fce6f0dd9ec1a1c407989111bcbbdb39d0438bf6f8463dd8d01783e09b5fe72aaae6f0ffdcd0422adb1e8147bc2b34d2d8245f93ca7841c00d04ec65cf392398635252c7f229b5281950489a82a5f000f721fdd50ddff85128acda48a570924136eba32b09f5e733109c542f2c5c891f4b6dbe5a6f59b4dbfea33dbf6d086c617f475bb3ab025c1e7585b7f64cafcea67afa7266f8d21a07597797b1c05b70aee174cbb95b57fa2bf91974fd2a4985eaf409cc9a0aed32fe0ef703bf7407e9498e25e5c74af6ba34cb2aa7b67cdae66b98b04c5f540eed6cdc0ea80078a6da506a763bd17c75e4cfd5f90f2b80f94f28bcfa7a90f6720b831ec0cb087e6f224be862fa9919e379dd237cfb70c9d8550f328e83775678434cd02e4d683d89d6bb97023080f1e6b1a1b415cf4d5c65c603347403f22c37281be7480d08e3061dd906c0a777aaeb1df8500ee24a3fb57f5a6eaf507df5766c9d6bbba2cfd9148b01c1d4b16190a1b16c010d44fa58de765e2caac6e404d001b25721551b72461562350fe4dd49d8b4b1fdee1fb16fe4b88eb2be7227e0a5d159e00ae71d3ee7e3d52665e17e7a8294c18f94c2ae60ab201a4b190b6dd1816026dfd704a54e0872df712e3bf65910e14908707f1c372aa98f4b8724e8fc265e6d282d3e99a135849912a2f03bb46eb17523e2058238ef66dfdce5f9fa4984c5d976f3516872d2196fc1fadf4db5e2ea1011713f5b9fa4f0d80a2edb39b317efaf1aa94e32dad1104ec3052a95c5b4d0ba287722269645bc343b58920e59fcc1d80d6818974c3485c664aa97d0e4406f78e16981d84a19be9573c69fcd41c8da664e0afa0583affdcab4ef38bd122272b410eb7684f2b5bd5213120cd6d76365df242861dcfcfcaa1a33a97d98f6111c4a716a32171bc642654fbe532398198db63c51dd7e3deb1b2cc6bade6cfc863b956dd5aeb3e88df2d60d25eea2c07b4035e1138720450972e97e779d0498febbb5f18e8</script>
+  <div class="hbe hbe-content">
+    <div class="hbe hbe-input hbe-input-default">
+      <input class="hbe hbe-input-field hbe-input-field-default" type="password" id="hbePass">
+      <label class="hbe hbe-input-label hbe-input-label-default" for="hbePass">
+        <span class="hbe hbe-input-label-content hbe-input-label-content-default">Hey, password is required here.</span>
+      </label>
+    </div>
+  </div>
+</div>
+<script data-pjax src="/lib/hbe.js"></script><link href="/css/hbe.style.css" rel="stylesheet" type="text/css">]]></content>
       <categories>
-          
-          <category> variety </category>
-          
-          <category> public blockchain </category>
-          
+        <category>variety</category>
+        <category>public blockchain</category>
       </categories>
-      
-      
-        <tags>
-            
-            <tag> variety </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-  
-  
+      <tags>
+        <tag>variety</tag>
+      </tags>
+  </entry>
 </search>
