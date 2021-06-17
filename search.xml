@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <search>
   <entry>
-    <title>presentation</title>
+    <title>关于本站</title>
     <url>/2021/06/16/%E4%BB%8B%E7%BB%8D/</url>
     <content><![CDATA[<p><img src="/2021/06/16/%E4%BB%8B%E7%BB%8D/1.png"></p>
 <h3 id="关于这个网站"><a href="#关于这个网站" class="headerlink" title="关于这个网站"></a>关于这个网站</h3><h4 id="功能"><a href="#功能" class="headerlink" title="功能"></a>功能</h4><p>​    将打造一个用于普及区块链理论知识的网站，该网站支持更新上传文章，随时更新区块链最新讯息。适用于想要了解区块链的小白。</p>
@@ -13,6 +13,24 @@
       <categories>
         <category>about</category>
       </categories>
+  </entry>
+  <entry>
+    <title>莱茨狗</title>
+    <url>/2021/06/17/%E8%8E%B1%E8%8C%A8%E7%8B%97/</url>
+    <content><![CDATA[<p><img src="/2021/06/17/%E8%8E%B1%E8%8C%A8%E7%8B%97/1.png"></p>
+<h4 id="游戏介绍"><a href="#游戏介绍" class="headerlink" title="游戏介绍"></a>游戏介绍</h4><p>​    莱茨狗，英文名：Letsdog，寓意“let’s go”。百度金融（改名为：<a href="https://baike.baidu.com/item/%E5%BA%A6%E5%B0%8F%E6%BB%A1%E9%87%91%E8%9E%8D/22547746">度小满金融</a>）于2018年2月推出的一款区块链游戏项目 [1] ，提供形态各异的虚拟宠物狗供领养，每只都有独一无二的基因“莱茨狗”。每只莱茨狗被系统冠以体型、花纹、眼睛、眼睛色、嘴巴、肚皮色、身体色、花纹色这8个外貌特征，每个特征有两种不同的属性：稀有属性和普通属性。这些属性组合起来，将会决定宠物狗的稀有等级，包括普通、稀有、卓越、史诗、神话、传说。</p>
+<p>​                                                                                                                ——来源百度百科</p>
+<h4 id="领取方式"><a href="#领取方式" class="headerlink" title="领取方式"></a>领取方式</h4><p>​    内测时用户领养“莱茨狗”需要以百度账号登录，一个百度账号可以免费领养两只，通过网页访问能免费领养一只，下载百度钱包能再领养一只，且能各获得1000游戏积分。</p>
+<p>​    数字狗并不具备现金交易功能，领取时可获得游戏积分，游戏积分仅可用于狗狗集市中相应数字狗的购买，不具有任何其他功能。而在宠物狗价格上升到一定程度，用户可以卖出。</p>
+<p>​    正式服玩家无法免费获得“莱茨狗”，但仍可以通过“元气谷”来获取游戏积分。</p>
+<h4 id="等级价值"><a href="#等级价值" class="headerlink" title="等级价值"></a>等级价值</h4><p>​    用户可以在“我的狗窝”中查看自己领养的“莱茨狗”，每一只“莱茨狗”都具备不同的体型、花纹、眼睛、眼睛色、嘴巴、肚皮色、身体色、花纹色这8个属性。 [4] 每只莱茨狗的价值由其稀有等级决定，而决定其等级的因素就是上述身体属性的稀有度。除此之外，基于区块链技术，可保证狗的唯一性，并对数据进行确权，令每一只数字宠物狗都不可复制，并且不可被修改和销毁。据悉，该项目首页上，显示着这些宠物狗具有“可爱、唯一、值得<a href="https://baike.baidu.com/item/%E6%94%B6%E8%97%8F/5176">收藏</a>”的特性。</p>
+]]></content>
+      <categories>
+        <category>application</category>
+      </categories>
+      <tags>
+        <tag>app</tag>
+      </tags>
   </entry>
   <entry>
     <title>DES对称加密算法</title>
@@ -32,6 +50,16 @@
     <title>RSA非对称加密算法</title>
     <url>/2021/06/16/RSA%E9%9D%9E%E5%AF%B9%E7%A7%B0%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95/</url>
     <content><![CDATA[<p><img src="/2021/06/16/RSA%E9%9D%9E%E5%AF%B9%E7%A7%B0%E5%8A%A0%E5%AF%86%E7%AE%97%E6%B3%95/1.png"></p>
+<h2 id="RSA"><a href="#RSA" class="headerlink" title="RSA"></a>RSA</h2><h3 id="数学理论基础"><a href="#数学理论基础" class="headerlink" title="数学理论基础"></a>数学理论基础</h3><h4 id="互质关系"><a href="#互质关系" class="headerlink" title="互质关系"></a>互质关系</h4><h4 id="欧拉函数"><a href="#欧拉函数" class="headerlink" title="欧拉函数"></a>欧拉函数</h4><h4 id="欧拉定理"><a href="#欧拉定理" class="headerlink" title="欧拉定理"></a>欧拉定理</h4><h4 id="费马小定理（欧拉定理的特例）"><a href="#费马小定理（欧拉定理的特例）" class="headerlink" title="费马小定理（欧拉定理的特例）"></a>费马小定理（欧拉定理的特例）</h4><h3 id="加解密准备"><a href="#加解密准备" class="headerlink" title="加解密准备"></a>加解密准备</h3><ol>
+<li>任意选取两个不同的大素数p和q计算乘积n,n的长度就是密钥长度,3233写成二进制是110010100001，一共有12位，所以这个密钥就是12位。实际应用中，RSA密钥一般是1024位，重要场合则为2048位。</li>
+<li>计算n的欧拉函数φ(n)。<pre><code>   根据公式：φ(n) = (p-1)(q-1)
+</code></pre>
+</li>
+<li>随机选择一个整数e，条件是1&lt; e &lt; φ(n)，且e与φ(n) 互质。</li>
+<li>计算e对于φ(n)的模反元素d。 ed mod φ(n) ≡ 1 </li>
+<li>将n和e封装成公钥，n和d封装成私钥。</li>
+</ol>
+<h3 id="加密和解密"><a href="#加密和解密" class="headerlink" title="加密和解密"></a>加密和解密</h3><p>（1）加密要用公钥 (n,e)<br>    假设鲍勃要向爱丽丝发送加密信息m，他就要用爱丽丝的公钥 (n,e) 对m进行加密。这里需要注意，m必须是整数（字符串可以取ascii值或unicode值），且m必须小于n。<br>    所谓”加密”，就是算出下式的c：<br>　　        me(上标) ≡ c (mod n)<br>（2）解密要用私钥(n,d)<br>    爱丽丝拿到鲍勃发来的c以后，就用自己的私钥(n,d) 进行解密。可以证明，下面的等式一定成立：<br>　　        cd(上标) ≡ m (mod n)<br>    也就是说，c的d次方除以n的余数为m。</p>
 ]]></content>
       <categories>
         <category>technology</category>
